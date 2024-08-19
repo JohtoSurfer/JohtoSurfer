@@ -7,7 +7,7 @@ I make elegantly professional **💻 Wordpress website, 📱 responsive web deve
 * 🧐   Interested in full stack. Recent focus on frontend transitioning to backend.
 * 💼   Junior Full Stack Developer currently working at SACVEN.
 * 🎓   Data Base, Frontend and Backend technician graduated at Universidad Central de Venezuela, Major GPA 3.75/4.0, GPA 3.75/4.0.
-* 🌱   Currently learning React and algorithms and data structures.
+* 🌱   Currently learning React, algorithms and data structures.
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * 💻   With 2 years' computer science and technology education ' development working experience in wordpress.
 * ⛵   Encouraging people for open source collaborations.
