@@ -2,7 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-I'm a Full Stack Developer who enjoys crafting code and building projects from scratch. I'm always up for the next challenge, looking to grow, and collaborating with fellow devs to create something great.
+I'm a Full Stack Developer who enjoys crafting code and building projects from scratch. I'm always up for the next challenge, looking to grow, and looking to collaborate with fellow devs to make great stuff.
 Let's paddle out and see what we can create!
 
 What I'm About:
