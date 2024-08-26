@@ -6,13 +6,14 @@ I'm a Full Stack Developer who enjoys crafting code and building projects from s
 Let's paddle out and see what we can create!
 
 What I'm About:
-* 🧐 Interested in full stack. Recent focus on frontend transitioning to backend.
-* 💼 Junior Full Stack Developer currently working at SACVEN.
-* 🎓 Data Base, Frontend and Backend technician graduated at Universidad Central de Venezuela, Major GPA 3.75/4.0, GPA 3.75/4.0.
+* 💼 Junior Full Stack Developer currently working at SACVEN (Venezuela Authors and Composers Society).
+* 🧐 Focused on Full Stack Development with a recent shift from frontend to backend.
+* 🎓 Graduate in Database, Frontend, and Backend Development from Universidad Central de Venezuela, with a GPA of 3.75/4.0.
 * 🌱 Currently learning React, algorithms and data structures.
-* 📚 Interested in Aviation, Cars, Surfing and how the computers works.
-* 💻 With 2 years' computer science and technology education ' development working experience in wordpress.
-* ⛵ Encouraging people for open source collaborations.
+* 💻 I have 2 years of experience in WordPress development, including responsive web development and working on projects like SACVEN's website.
+* 🛠️ Recent Projects: Here, you can explore some of my favorite builds and projects that I’ve enjoyed working on.
+* 🌍 Open Source Enthusiast: I encourage collaboration and am always excited about new open-source projects.
+* 📚 Interests: Aviation, Cars, Surfing, Fishing, Hikking, Video Games and the inner workings of computers.
 
 
 <details>
