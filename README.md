@@ -6,10 +6,9 @@ I'm a Full Stack Developer who enjoys crafting code and building projects from s
 Let's paddle out and see what we can create!
 
 What I'm About:
-* 💼 Junior Full Stack Developer currently working at SACVEN (Venezuela Authors and Composers Society).
-* 🧐 Focused on Full Stack Development with a recent shift from frontend to backend.
-* 🎓 Graduate in Database, Frontend, and Backend Development from Universidad Central de Venezuela, with a GPA of 3.75/4.0.
-* 🌱 Currently learning React, algorithms and data structures.
+* 💼 Junior Full Stack Developer.
+* 🎓 Graduate in Database, Frontend, and Backend Development from Universidad Central de Venezuela.
+* 🌱 Currently learning React, Laravel, algorithms and data structures.
 * 💻 I have 2 years of experience in WordPress development, including responsive web development and working on projects like SACVEN's website.
 * 🛠️ Recent Projects: Here, you can explore some of my favorite builds and projects that I’ve enjoyed working on.
 * 🌍 Open Source Enthusiast: I encourage collaboration and am always excited about new open-source projects.
@@ -46,6 +45,7 @@ What I'm About:
 <a href= ""><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 <a href= ""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 <a href= ""><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a href= ""><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/></a>
 </p>
 
 <p  align="center">
