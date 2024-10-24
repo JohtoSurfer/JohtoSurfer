@@ -2,8 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-I'm a Full Stack Developer who enjoys crafting code and building projects from scratch. I'm always up for the next challenge, looking to grow, and looking to collaborate with fellow devs to make great stuff.
-Let's paddle out and see what we can create!
+I'm a Full Stack Developer who loves coding, solving everyday problems, learning about the next big trend. I’m always up for a challenge, learning something new, and teaming up with other devs to build awesome stuff.
 
 What I'm About:
 * 💼 Junior Full Stack Developer.
