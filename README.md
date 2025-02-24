@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg) 
 
 I'm a Full Stack Developer who loves coding, solving everyday problems, learning about the next big trend. I’m always up for a challenge, learning something new, and teaming up with other devs to build awesome stuff.
 
