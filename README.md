@@ -5,13 +5,19 @@
 I'm a Full Stack Developer who loves coding, solving everyday problems, learning about the next big trend. I’m always up for a challenge, learning something new, and teaming up with other devs to build awesome stuff.
 
 What I'm About:
-* 💼 Junior Full Stack Developer.
-* 🎓 Graduate in Database, Frontend, and Backend Development from Universidad Central de Venezuela.
-* 🌱 Currently learning React, Laravel, algorithms and data structures.
-* 💻 I have 2 years of experience in WordPress development, including responsive web development and working on projects like SACVEN's website.
-* 🛠️ Recent Projects: Here, you can explore some of my favorite builds and projects that I’ve enjoyed working on.
-* 🌍 Open Source Enthusiast: I encourage collaboration and am always excited about new open-source projects.
-* 📚 Interests: Aviation, Cars, Surfing, Fishing, Hikking, Video Games and the inner workings of computers.
+💼 Junior Full Stack Developer.
+
+🎓 Graduate in Database, Frontend, and Backend Development from Universidad Central de Venezuela.
+
+🌱 Currently sharpening my skills in React, Laravel, and algorithms/data structures to strengthen my foundation as a full-stack developer.
+
+💻 2+ years of hands-on experience in WordPress development, including responsive web design, site optimization, and projects like SACVEN’s official website.
+
+🛠️ Recent Projects: Working on a Laravel-based school management system, React apps, focusing on best practices in clean code, database design, and API integration.
+
+🌍 I'm always enthusiastic about contributing to open-source and collaborating on projects that solve real problems but open to anything to sharp my skills or have fun.
+
+📚 Interests : Passionate about aviation, technology, and building meaningful digital solutions. Outside of coding, I enjoy surfing, hiking, and exploring how things work—from engines to software systems.
 
 
 <details>
@@ -55,8 +61,6 @@ What I'm About:
 ---
 
 <!--
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
