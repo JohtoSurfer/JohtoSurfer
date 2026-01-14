@@ -1,23 +1,26 @@
 # Hello there 👋
 
-![](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg) 
+![](https://static.vecteezy.com/system/resources/thumbnails/006/709/644/small/abstract-modern-tech-of-programming-code-screen-developer-free-photo.jpg) 
 
-I'm a Full Stack Developer who loves coding, solving everyday problems, learning about the next big trend. I’m always up for a challenge, learning something new, and teaming up with other devs to build awesome stuff.
+Full Stack Web Developer (3+ years) focused on building reliable, scalable web applications with modern JavaScript ecosystems.
 
-What I'm About:
-💼 Junior Full Stack Developer.
+Currently working as a React Developer, managing and evolving a finance & motorcycle management system, using React, TypeScript, Node.js, Supabase, and PostgreSQL. I care deeply about clean code, maintainable architectures, and practical solutions that scale with real-world use.
 
-🎓 Graduate in Database, Frontend, and Backend Development from Universidad Central de Venezuela.
+I also take on freelance WordPress projects, handling custom development, performance optimization, and ongoing site management for production environments.
 
-🌱 Currently sharpening my skills in React, Laravel, and algorithms/data structures to strengthen my foundation as a full-stack developer.
+What I work with
 
-💻 2+ years of hands-on experience in WordPress development, including responsive web design, site optimization, and projects like SACVEN’s official website.
+Frontend: React, JavaScript, TypeScript
 
-🛠️ Recent Projects: Working on a Laravel-based school management system, React apps, focusing on best practices in clean code, database design, and API integration.
+Backend: Node.js, Laravel
 
-🌍 I'm always enthusiastic about contributing to open-source and collaborating on projects that solve real problems but open to anything to sharp my skills or have fun.
+Databases: PostgreSQL, Supabase
 
-📚 Interests : Passionate about aviation, technology, and building meaningful digital solutions. Outside of coding, I enjoy surfing, hiking, and exploring how things work—from engines to software systems.
+CMS: WordPress (custom themes, optimization, maintenance)
+
+I enjoy collaborating, contributing to open-source, and continuously improving my fundamentals in system design, algorithms, and software architecture.
+
+Outside of coding, I’m into aviation, technology, surfing, hiking, and understanding how complex systems work
 
 
 <details>
