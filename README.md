@@ -4,7 +4,7 @@
 
 Full Stack Web Developer (3+ years) focused on building reliable, scalable web applications with modern JavaScript ecosystems.
 
-Currently working as a React Developer, managing and evolving a finance & motorcycle management system, using React, TypeScript, Node.js, Supabase, and PostgreSQL. I care deeply about clean code, maintainable architectures, and practical solutions that scale with real-world use.
+Currently working as a React Developer, managing and evolving a finance & management system, using React, TypeScript, Node.js, Supabase, and PostgreSQL. I care deeply about clean code, maintainable architectures, and practical solutions that scale with real-world use.
 
 I also take on freelance WordPress projects, handling custom development, performance optimization, and ongoing site management for production environments.
 
