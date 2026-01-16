@@ -29,7 +29,7 @@ Outside of coding, I’m into aviation, technology, surfing, hiking, and underst
 
 <p align="center">
 <a href= ""><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_Universidad_Central_de_Venezuela.svg" height="100" width="100"/></a>
-<a href= ""><img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI_dzp9WBnt6DDU5MdpuZXS9DIgLrXgJUgpg&s](https://assets.bitdegree.org/online-learning-platforms/storage/media/freecodecamp-big.o.png?tr=w-250)" height="100" width="100"/></a>
+<a href= ""><img src="https://assets.bitdegree.org/online-learning-platforms/storage/media/freecodecamp-big.o.png?tr=w-250" height="100" width="100"/></a>
 <a href= ""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiNvvrp13Wc3-oaOlzhqEJAFrpPFcTZpViSQ&s" height="100" width="100"/></a>
 <img src="" height="100" width="100"/>
 <a href= """ height="100" width="100"/></a>
