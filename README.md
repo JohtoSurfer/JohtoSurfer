@@ -37,9 +37,6 @@ Outside of coding, I’m into aviation, technology, surfing, hiking, and underst
 </p>
 
 <p align="center">
-<img align="center" src="" />
-<img align="center" src="" />
-<img align="center" src="" />
 </p>
 
 </details>
@@ -54,6 +51,7 @@ Outside of coding, I’m into aviation, technology, surfing, hiking, and underst
 <a href= ""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 <a href= ""><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <a href= ""><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/></a>
+<a href= ""><img src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge"/></a>
 </p>
 
 <p  align="center">
